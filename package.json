@@ -1,0 +1,15 @@
+{
+  "name": "mean product app",
+  "version": "1.0.0",
+  "description": "Frontend Bootstrap and Angular JS, RESTFul API using nodejs, Database used Mongodb",
+  "main": "index.js",
+  "author": "shri ram manyam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.3",
+    "node-restful": "^0.2.2"
+  },
+  "main": "server.js"
+}
